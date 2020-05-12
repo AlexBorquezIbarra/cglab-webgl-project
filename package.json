@@ -1,0 +1,32 @@
+{
+  "name": "cglab-webgl-project",
+  "version": "1.0.0",
+  "description": "Esto es un proyecto para enseñar a usar WebGL 2.0.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexBorquezIbarra/cglab-webgl-project.git"
+  },
+  "keywords": [
+    "webgl",
+    "games",
+    "cg",
+    "shader",
+    "glsl",
+    "2d",
+    "3d"
+  ],
+  "author": "Alex Borquez Ibarra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexBorquezIbarra/cglab-webgl-project/issues"
+  },
+  "homepage": "https://github.com/AlexBorquezIbarra/cglab-webgl-project#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
